@@ -7,6 +7,24 @@ The CHANGELOG for the current development version is available at
 
 ---
 
+### Version 0.17.0dev0 (TBD)
+
+##### Downloads
+
+- -
+- -
+
+##### New Features
+
+- -
+
+##### Changes
+
+- -
+
+##### Bug Fixes
+
+- Fixed documentation of `iris_data()` under `iris.py` by adding a note about differences in the iris data in R and UCI machine learning repo.
 
 ### Version 0.16.0 (05/12/2019)
 
